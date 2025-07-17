@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/6W8vV8z/data-science-banner.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%"/>
   <h1>Hi there! I'm <span style="color:#00bcd4">Yash Kakadiya</span> 👋</h1>
   <h3>Aspiring Data Scientist | ML & AI Explorer | Data Storyteller 📊</h3>
 </div>
@@ -88,5 +88,5 @@
 ---
 
 <div align="center">
-  <img src="https://i.ibb.co/xgzhJHL/footer-banner.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/retro.gif" width="100%"/>
 </div>
