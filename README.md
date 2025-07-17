@@ -34,19 +34,6 @@
 
 ---
 
-## 🚀 Projects Snapshot
-
-### 🔎 Tourism Recommendation System [🔗](https://github.com/yashkakadiya021/Tourism-recommendation-system)
-- Built a smart recommender using content-based filtering.
-- Data scraped from Holidify/MakeMyTrip using Selenium.
-- Engineered popularity, rating, and distance metrics.
-
-### 💳 Credit Card Data Analysis [🔗](https://github.com/yashkakadiya021/Credit-card-Customer-Data-Analysis)
-- Explored transaction trends and customer segments.
-- Visualized KPIs in Power BI & drew actionable insights.
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -57,6 +44,19 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkakadiya021&theme=highcontrast&hide_border=true" width="100%">
 </p>
+
+---
+
+## 🚀 Projects Snapshot
+
+### 🔎 Tourism Recommendation System [🔗](https://github.com/yashkakadiya021/Tourism-recommendation-system)
+- Built a smart recommender using content-based filtering.
+- Data scraped from Holidify/MakeMyTrip using Selenium.
+- Engineered popularity, rating, and distance metrics.
+
+### 💳 Credit Card Data Analysis [🔗](https://github.com/yashkakadiya021/Credit-card-Customer-Data-Analysis)
+- Explored transaction trends and customer segments.
+- Visualized KPIs in Power BI & drew actionable insights.
 
 ---
 
