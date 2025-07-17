@@ -90,3 +90,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/retro.gif" width="100%"/>
 </div>
+
+---
+
+### ⚡ Fun Fact
+> _“I love solving problems with data and exploring new AI trends every week!”_
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkakadiya021&theme=tokyonight" alt="yash's streak stats"/>
+</p>
+
+---
