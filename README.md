@@ -81,20 +81,14 @@
 </p>
 
 ---
-
 <p align="center">
   <i>"Turning data into decisions, one model at a time."</i> 🧠📊
 </p>
 
 ---
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/retro.gif" width="100%"/>
 </div>
 
----
-
 ### ⚡ Fun Fact
 > _“I love solving problems with data and exploring new AI trends every week!”_
-
-
