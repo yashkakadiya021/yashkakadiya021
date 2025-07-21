@@ -14,7 +14,7 @@
 
 ## 🎯 Career Snapshot
 
-🌱 Data Science undergrad passionate about solving real-world problems using data and storytelling.  
+🌱 Data Science graduate passionate about solving real-world problems using data and storytelling.  
 🚀 Keen on building smart solutions in AI, ML, and Business Intelligence.  
 📌 Current focus: AI-powered analytics, ML project deployment, and recommender systems.
 
