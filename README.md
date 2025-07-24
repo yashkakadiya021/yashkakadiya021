@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashkakadiya021&theme=highcontrast&hide_border=true" width="100%">
+  <img src="https://streak-stats.demolab.com/?user=yashkakadiya021&theme=highcontrast&hide_border=true" width="90%">
 </p>
 
 
