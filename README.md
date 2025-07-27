@@ -22,43 +22,47 @@
 
 ## 🛠️ Tech Stack & Tools
 
+### 🧑‍💻 Languages
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://www.r-project.org/" target="_blank" title="R"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://www.mysql.com/" target="_blank" title="SQL"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 8px; margin: 6px;" /></a>
+</p>
+
+---
+
+### 📊 Data Tools
+<p align="center">
+  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://www.tableau.com/" target="_blank" title="Tableau"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" title="Excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://www.anaconda.com/" target="_blank" title="Anaconda"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+</p>
+
+---
+
+### 🧰 Dev Tools
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://jupyter.org/" target="_blank" title="Jupyter Notebook"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+   <a href="https://www.jetbrains.com/pycharm/" target="_blank" title="PyCharm"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" style="border-radius: 8px; margin: 6px;" />
   </a>
-  <a href="https://www.r-project.org/" target="_blank" title="R">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" title="SQL / MySQL">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" title="Tableau">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" title="Excel">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a>
-  <a href="https://jupyter.org/" target="_blank" title="Jupyter Notebook">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  </a>
+</p>
+
+---
+
+### 🤖 ML / AI Platforms
+<p align="center">
+<marquee behavior="alternate" scrollamount="6" direction="left" width="100%">
+  <a href="https://www.kaggle.com/" target="_blank" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://huggingface.co/" target="_blank" title="Hugging Face"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" style="border-radius: 8px; margin: 6px;" /></a>
+  <a href="https://colab.research.google.com/" target="_blank" title="Google Colab"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" style="border-radius: 8px; margin: 6px;" /></a>
+</marquee>
 </p>
 
 ---
