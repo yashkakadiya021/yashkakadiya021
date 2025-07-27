@@ -22,15 +22,44 @@
 
 ## 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript)
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" title="R">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="SQL / MySQL">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" title="Tableau">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" title="Excel">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" title="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -44,7 +73,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yashkakadiya021&theme=highcontrast&hide_border=true" width="100%">
 </p>
-
 
 ---
 
@@ -82,11 +110,13 @@
 </p>
 
 ---
+
 <p align="center">
   <i>"Turning data into decisions, one model at a time."</i> 🧠📊
 </p>
 
 ---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/retro.gif" width="100%"/>
 </div>
