@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student+%7C+ML+Engineer+in+making;Skilled+in+Python,+Power+BI,+SQL+and+more;&center=true&width=500&height=40&color=00bcd4">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=700&lines=🚀+Data+Science+Student+%7C+ML+Engineer+in+Making;💻+Skilled+in+Python%2C+SQL%2C+Power+BI%2C+and+More!" alt="Typing SVG" />
 </p>
 
 ---
