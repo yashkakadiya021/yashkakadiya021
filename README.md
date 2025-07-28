@@ -80,19 +80,6 @@
 
 ---
 
-## 🚀 Projects Snapshot
-
-### 🔎 Tourism Recommendation System [🔗](https://github.com/yashkakadiya021/Tourism-recommendation-system)
-- Built a smart recommender using content-based filtering.
-- Data scraped from Holidify/MakeMyTrip using Selenium.
-- Engineered popularity, rating, and distance metrics.
-
-### 💳 Credit Card Data Analysis [🔗](https://github.com/yashkakadiya021/Credit-card-Customer-Data-Analysis)
-- Explored transaction trends and customer segments.
-- Visualized KPIs in Power BI & drew actionable insights.
-
----
-
 ## 🏆 Certifications
 
 - Deloitte Data Analytics Virtual Internship – Feb 2025  
