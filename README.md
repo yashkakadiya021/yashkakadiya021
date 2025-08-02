@@ -83,7 +83,7 @@
 ## 🏆 Certifications
 
 - Deloitte Data Analytics Virtual Internship – Feb 2025  
-- GenAI Powered Data Analytics Simulation – Jun 2025
+- TATA GenAI Powered Data Analytics Simulation – Jun 2025
 
 ---
 
