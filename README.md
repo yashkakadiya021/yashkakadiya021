@@ -32,7 +32,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 8px; margin: 6px;" /></a>
 </p>
 
----
+##
 
 ### 📊 Data Tools
 <p align="center">
@@ -42,7 +42,7 @@
   <a href="https://www.anaconda.com/" target="_blank" title="Anaconda"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" style="border-radius: 8px; margin: 6px;" /></a>
 </p>
 
----
+##
 
 ### 🧰 Dev Tools
 <p align="center">
@@ -54,7 +54,7 @@
   </a>
 </p>
 
----
+##
 
 ### 🤖 ML / AI Platforms
 <p align="center">
@@ -82,8 +82,11 @@
 
 ## 🏆 Certifications
 
-- Deloitte Data Analytics Virtual Job Simulation – Feb 2025     [Certificate](https://drive.google.com/file/d/1jUJAW3SLz4DBiUdMAPqQ62039HPYhsqX/view?usp=sharing)
-- TATA GenAI Powered Data Analytics job Simulation – Jun 2025     [Certificate](https://drive.google.com/file/d/1O6hwjSCNx8wNHfyTMtSPzrWV9LXUijIb/view?usp=sharing)
+- **Deloitte Data Analytics Virtual Job Simulation** – *Feb 2025*  
+  [📜 View Certificate](https://drive.google.com/file/d/1jUJAW3SLz4DBiUdMAPqQ62039HPYhsqX/view?usp=sharing)
+
+- **TATA GenAI Powered Data Analytics Job Simulation** – *Jun 2025*  
+  [📜 View Certificate](https://drive.google.com/file/d/1O6hwjSCNx8wNHfyTMtSPzrWV9LXUijIb/view?usp=sharing)
 
 ---
 
