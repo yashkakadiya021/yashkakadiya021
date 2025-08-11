@@ -83,7 +83,7 @@
 ## 🏆 Certifications
 
 - Deloitte Data Analytics Virtual Job Simulation – Feb 2025  
-- TATA GenAI Powered Data Analytics job Simulation – Jun 2025
+- TATA GenAI Powered Data Analytics job Simulation – Jun 2025   [Certificate](https://drive.google.com/file/d/1O6hwjSCNx8wNHfyTMtSPzrWV9LXUijIb/view?usp=sharing)
 
 ---
 
